@@ -1,0 +1,4 @@
+- 👋 Olá, sou @ArthurCristian.
+- 👀 Me interesso bastante na área de programação.
+- 🌱 Estou aprendendo programação em jogos.
+- email para contato: arthurreis11@gmail.com
